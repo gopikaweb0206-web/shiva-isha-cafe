@@ -6,7 +6,8 @@ const images = [
 
 function Gallery() {
   return (
-    <section id="gallery" className="py-20 px-6 bg-white">
+    <section id="gallery" 
+    className="py-20 px-6 bg-white">
       <div className="max-w-6xl mx-auto">
         <h2 className="text-4xl font-bold text-center mb-12 text-orange-500">
           Gallery
